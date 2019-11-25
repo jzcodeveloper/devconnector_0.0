@@ -1,0 +1,6 @@
+{
+  "mongoURI": "",
+  "jwtSecret": "jz-devconnector-secret",
+  "expiresIn": 3600,
+  "baseURL": "https://jz-devconnector.herokuapp.com/api"
+}
